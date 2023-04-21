@@ -1,37 +1,12 @@
 # OpenAlloc Project
 
-A family of libraries and applications, written in Swift
+A family of applications and libraries, written in Swift
 
-## Flow App Suite
-
-Apps for rebalancing a portfolio and tracking its value over time, for macOS.
-
-### Flow Allocator
-
-A portfolio rebalancing tool.
-
-* [FlowAllocator](https://openalloc.github.io/FlowAllocator/) - product website
-* [FlowAllocator Project](https://github.com/openalloc/FlowAllocatorApp/) - Github site for the development project, including full source code
-
-### Flow Worth
-
-A tool for tracking the value and performance of a portfolio over time.
-
-* [FlowWorth](https://openalloc.github.io/FlowWorth/) - product website
-* [FlowWorth Project](https://github.com/openalloc/FlowWorthApp/) - Github site for the development project, including full source code
-
-They are formerly proprietary applications now fully open-sourced as of August 2022. 
-
-## Tracker App Suite
-
-Apps for tracking daily calories, gym routines, and task routines, for the iPhone, iPad, and Apple Watch.
-
-* [_Open Trackers_](https://open-trackers.github.io/) - product website for all the tracker apps
-* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+* [_OpenAlloc_](https://openalloc.github.io/) - main product website
 
 ## Libraries
 
-A variety of reusable Swift libraries, written principally to support the apps above, available as Swift Packages.
+A variety of reusable Swift libraries, written principally to support the apps mentioned below, available as Swift Packages.
 
 ### Swift Components
 
@@ -42,17 +17,59 @@ A variety of reusable Swift libraries, written principally to support the apps a
 * [SwiftSeriesResampler](https://github.com/openalloc/SwiftSeriesResampler) - transform a series of coordinate values into a new series with uniform intervals
 * [SwiftSimpleTree](https://github.com/openalloc/SwiftSimpleTree) - a nested data structure that’s flexible and easy to use
 
-### User Interface Components for the SwiftUI Framework
+### User Interface Components, for the SwiftUI Framework
 
 * [SwiftDetailer](https://github.com/openalloc/SwiftDetailer) - a multi-platform SwiftUI component for editing fielded data
 * [SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - a multi-platform SwiftUI component for basic number input
 * [SwiftTabler](https://github.com/openalloc/SwiftTabler) - a multi-platform SwiftUI component for tabular data.
 * [SwiftTextFieldPreset](https://github.com/openalloc/SwiftTextFieldPreset) - a multi-platform SwiftUI component for text input with presets support
 
-### Financial data import
+## Portfolio App Project
 
-* [AllocData](https://github.com/openalloc/AllocData) - standardized data formats for investing-focused apps and tools
-* [FINporter](https://github.com/openalloc/FINporter) - library and command-line tool to transform various specialized finance-related formats to the standardized schema of AllocData
+Apps for rebalancing a portfolio and tracking its value over time, for macOS.
+
+* [_Open Portfolio_ Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
+
+### Flow Allocator
+
+A portfolio rebalancing tool.
+
+* [FlowAllocator](https://openalloc.github.io/FlowAllocator/) - product website
+* [FlowAllocator Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
+
+### Flow Worth
+
+A tool for tracking the value and performance of a portfolio over time.
+
+* [FlowWorth](https://openalloc.github.io/FlowWorth/) - product website
+* [FlowWorth Project](https://github.com/open-portfolio/FlowWorthApp/) - Github site for the development project, including full source code
+
+They are formerly proprietary applications now fully open-sourced as of August 2022. 
+
+## Tracker App Project
+
+Apps for fitness, nutrition, and productivity, for the iPhone, iPad, and Apple Watch.
+
+* [_Open Trackers_](https://open-trackers.github.io/) - product website for all the tracker apps
+* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+
+### Gym Routine Tracker
+
+A minimalist workout tracker.
+
+* [_Gym Routine Tracker_](https://open-trackers.github.io/grt/) - product website
+
+### Daily Calorie Tracker
+
+A minimalist calorie tracker.
+
+* [_Daily Calorie Tracker_](https://open-trackers.github.io/dct/) - product website
+
+### Task Routine Tracker
+
+A minimal & focused task runner.
+
+* [_Task Routine Tracker_](https://open-trackers.github.io/trt/) - product website
 
 ## License
 
