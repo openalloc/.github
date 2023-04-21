@@ -1,4 +1,4 @@
-# OpenAlloc Project
+# Welcome to the _OpenAlloc_ project!
 
 A family of applications and libraries, written in Swift
 
@@ -77,6 +77,10 @@ Copyright 2021, 2022, 2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
 
+Re-useable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
+
+Copyright is held by [@reedes](https://github.com/reedes)’s OpenAlloc LLC, except where noted in individual modules.
+
 ## Contributing
 
 Contributions are welcome. You are encouraged to submit pull requests to fix bugs, improve documentation, or offer new features. 
@@ -84,3 +88,8 @@ Contributions are welcome. You are encouraged to submit pull requests to fix bug
 The pull request need not be a production-ready feature or fix. It can be a draft of proposed changes, or simply a test to show that expected behavior is buggy. Discussion on the pull request can proceed from there.
 
 Contributions should ultimately have adequate test coverage. See tests for current entities to see what coverage is expected.
+
+Your contributions can be under the your name or organization, but must have a compatible license, preferably MPL-2.0 (for app code) or Apache-2.0 (for re-usable library code).
+
+(This should probably be expanded to a proper policy.)
+
