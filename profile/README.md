@@ -1,12 +1,10 @@
 # Welcome to the _OpenAlloc_ project!
 
-A family of applications and libraries, written in Swift
-
-* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-useable libraries, written in Swift.
 
 ## Libraries
 
-A variety of reusable Swift libraries, written principally to support the apps mentioned below, available as Swift Packages.
+A collection of reusable Swift libraries, written principally to support the apps mentioned below, available as Swift Packages.
 
 ### Swift Components
 
