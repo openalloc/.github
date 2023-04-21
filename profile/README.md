@@ -1,4 +1,4 @@
-# Welcome to the _OpenAlloc_ project!
+# Welcome to the _OpenAlloc Project_!
 
 The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-useable libraries, written in Swift.
 
