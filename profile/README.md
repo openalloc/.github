@@ -4,29 +4,34 @@ A family of libraries and applications, written in Swift
 
 ## Flow App Suite
 
-The workspace in this Github repository has been broken up into separate projects. The two top-level projects are the ‘Flow’ apps:
+Apps for rebalancing a portfolio and tracking its value over time, for macOS.
 
-- [FlowAllocator](https://github.com/openalloc/FlowAllocatorApp) - a portfolio rebalancing tool
-- [FlowWorth](https://github.com/openalloc/FlowWorthApp) - a tool for tracking the value and performance of a portfolio over time
+### Flow Allocator
 
-They are formerly proprietary applications now entirely open-sourced in August 2022. 
+A portfolio rebalancing tool.
 
-They are written in _Swift_ language and the _SwiftUI_ framework using Xcode 13.4
+* [FlowAllocator](https://openalloc.github.io/FlowAllocator/) - product website
+* [FlowAllocator Project](https://github.com/openalloc/FlowAllocatorApp/) - Github site for the development project, including full source code
 
-The current target is macOS 12.0 (Monterey) and newer, for Intel and Apple Silicon. This requirement will move forward in the future.
+### Flow Worth
 
-There’s strong potential for supporting iPadOS/iOS, but would require further development and testing by interested developers.
+A tool for tracking the value and performance of a portfolio over time.
+
+* [FlowWorth](https://openalloc.github.io/FlowWorth/) - product website
+* [FlowWorth Project](https://github.com/openalloc/FlowWorthApp/) - Github site for the development project, including full source code
+
+They are formerly proprietary applications now fully open-sourced as of August 2022. 
 
 ## Tracker App Suite
 
 Apps for tracking daily calories, gym routines, and task routines, for the iPhone, iPad, and Apple Watch.
 
-* [_Open Trackers_](https://open-trackers.github.io) - product website for all the tracker apps
-* [_Open Trackers_ Project](https://github.com/open-trackers) - Github site for the development project, including full source code
+* [_Open Trackers_](https://open-trackers.github.io/) - product website for all the tracker apps
+* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
 
 ## Libraries
 
-A variety of reusable Swift libraries, written principally to support the apps above.
+A variety of reusable Swift libraries, written principally to support the apps above, available as Swift Packages.
 
 ### Swift Components
 
@@ -37,7 +42,7 @@ A variety of reusable Swift libraries, written principally to support the apps a
 * [SwiftSeriesResampler](https://github.com/openalloc/SwiftSeriesResampler) - transform a series of coordinate values into a new series with uniform intervals
 * [SwiftSimpleTree](https://github.com/openalloc/SwiftSimpleTree) - a nested data structure that’s flexible and easy to use
 
-### SwiftUI (User Interface Framework) Components
+### User Interface Components for the SwiftUI Framework
 
 * [SwiftDetailer](https://github.com/openalloc/SwiftDetailer) - a multi-platform SwiftUI component for editing fielded data
 * [SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - a multi-platform SwiftUI component for basic number input
@@ -51,7 +56,7 @@ A variety of reusable Swift libraries, written principally to support the apps a
 
 ## License
 
-Copyright 2021, 2022 OpenAlloc LLC
+Copyright 2021, 2022, 2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
 
