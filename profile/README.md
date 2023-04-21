@@ -30,6 +30,8 @@ Apps for rebalancing a portfolio and tracking its value over time, for macOS.
 
 * [_Open Portfolio_ Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
 
+These are available on the App Store as **free** downloads for macOS.
+
 ### Flow Allocator
 
 A portfolio rebalancing tool.
@@ -52,6 +54,8 @@ Apps for fitness, nutrition, and productivity, for the iPhone, iPad, and Apple W
 
 * [_Open Trackers_](https://open-trackers.github.io/) - product website for all the tracker apps
 * [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+
+These are available on the App Store as **free** downloads for the Apple Watch, iPhone, and iPad.
 
 ### Gym Routine Tracker
 
