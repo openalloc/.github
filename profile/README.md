@@ -26,7 +26,7 @@ A collection of reusable Swift libraries, written principally to support the app
 
 Apps for rebalancing a portfolio and tracking its value over time, for macOS.
 
-* [_Open Portfolio_ Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
+* [_Open Portfolio_ Project](https://github.com/open-portfolio/) - Github site for the development project, including full source code
 
 These are available on the App Store as **free** downloads for macOS.
 
@@ -75,15 +75,12 @@ A minimal & focused task runner.
 
 ## XCode Setup
 
-See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the repositories.
+See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the re-useable library repositories.
 
 ## See also
 
 * [_OpenAlloc_](https://openalloc.github.io/) - main product website
-
-* [OpenAlloc Project](https://github.com/openalloc/) - re-useable Swift libraries
-* [Open Portfolio Project](https://github.com/open-portfolio/) - investing apps for macOS
-* [Open Trackers Project](https://github.com/open-trackers/) - fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch
+* [OpenAlloc Project](https://github.com/openalloc/) - Github site for the development project
 
 ## License
 
