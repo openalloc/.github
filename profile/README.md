@@ -1,12 +1,8 @@
 # Welcome to the _OpenAlloc Project_!
 
-The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications and re-useable libraries, written in Swift.
+The [_OpenAlloc Project_](https://openalloc.github.io/) is a family of applications, re-usable libraries, and user interface components, written in Swift.
 
-## Libraries
-
-A collection of reusable Swift libraries, written principally to support the apps mentioned below, available as Swift Packages.
-
-### Swift Components
+## Swift Libraries
 
 * [SwiftCompactor](https://github.com/openalloc/SwiftCompactor) - formatters for the concise display of Numbers, Currency, and Time Intervals
 * [SwiftModifiedDietz](https://github.com/openalloc/SwiftModifiedDietz) - a tool for calculating portfolio performance using the Modified Dietz method
@@ -15,7 +11,7 @@ A collection of reusable Swift libraries, written principally to support the app
 * [SwiftSeriesResampler](https://github.com/openalloc/SwiftSeriesResampler) - transform a series of coordinate values into a new series with uniform intervals
 * [SwiftSimpleTree](https://github.com/openalloc/SwiftSimpleTree) - a nested data structure that’s flexible and easy to use
 
-### User Interface Components, for the SwiftUI Framework
+## User Interface Components, for the SwiftUI Framework
 
 * [SwiftDetailer](https://github.com/openalloc/SwiftDetailer) - a multi-platform SwiftUI component for editing fielded data
 * [SwiftNumberPad](https://github.com/openalloc/SwiftNumberPad) - a multi-platform SwiftUI component for basic number input
@@ -24,16 +20,9 @@ A collection of reusable Swift libraries, written principally to support the app
 
 ## XCode Setup
 
-See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains most of the re-useable library repositories.
+See the [Workspace](https://github.com/openalloc/Workspace) repository for a handy Xcode workspace that contains  the library and user interface component repositories.
 
-## See also
-
-### OpenAlloc Libraries
-
-Re-useable Swift libraries for multiple platforms.
-
-* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
-* [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
+## Applications
 
 ### Open Trackers
 
@@ -51,11 +40,11 @@ Investing apps for macOS.
 
 ## License
 
-Copyright 2021, 2022, 2023 OpenAlloc LLC
+Copyright 2021-2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
 
-Re-useable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
+Re-usable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
 
 Copyright is held by [@reedes](https://github.com/reedes)’s OpenAlloc LLC, except where noted in individual modules.
 
@@ -70,4 +59,3 @@ Contributions should ultimately have adequate test coverage. See tests for curre
 Your contributions can be under the your name or organization, but must have a compatible license, preferably MPL-2.0 (for app code) or Apache-2.0 (for re-usable library code).
 
 (This should probably be expanded to a proper policy.)
-
